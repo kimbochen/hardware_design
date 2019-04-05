@@ -1,0 +1,12 @@
+﻿教學：https://www.instructables.com/id/How-to-Use-the-PmodJSTK-With-the-Basys3-FPGA/
+搖桿：https://store.digilentinc.com/pmod-jstk-2-axis-joystick-limited-time/
+馬力歐（沒切開）：https://github.com/jianweichuah/supermario
+馬力歐（有切開）：https://github.com/letyrodridc/fpga-super-mario
+
+搖桿例子一:https://www.instructables.com/id/Using-the-PmodJSTK-to-Control-Stepper-Motors-on-th/
+
+搖桿例子二:https://www.instructables.com/id/How-to-Use-the-PmodJSTK-With-the-Basys3-FPGA/
+
+
+
+http://web.mit.edu/6.111/www/f2009/projects/dalbert_Project_Final_Report.pdf
