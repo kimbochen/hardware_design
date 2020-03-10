@@ -10,6 +10,6 @@ I imagined myself connecting wires when I wrote Verilog code.
 
 ## Reflections
 What designing hardware taught me is _Designing precedes coding_. 
-I was often desparated if I started coding immediately after reading the specs.
+I often felt desperated if I started coding immediately after reading the specs.
 Besides, I found that **design the big picture first, then start off implementing small components** 
 is the most efficient way of developing.
